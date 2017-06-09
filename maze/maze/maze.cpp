@@ -10,6 +10,7 @@ int main()
 {
 	
 	cout << "Hello world\n";//doadanie kom
+	cout << "\n";
 
     return 0;
 }
